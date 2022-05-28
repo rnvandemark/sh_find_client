@@ -1,0 +1,4 @@
+/**:
+    ros__parameters:
+        heartbeat_period_ms: 2000
+        find/server_node_name: "find_server"
